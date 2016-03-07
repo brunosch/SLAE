@@ -1,4 +1,4 @@
 # SLAE
 SLAE - Securitytube Linux x86 Assembly Expert
 
-Repository for my SLAE assignmets
+Repository for my SLAE assignments
